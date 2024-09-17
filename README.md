@@ -19,16 +19,16 @@ The OCR-Based Expense Tracker is a Python-based application that uses Optical Ch
 
 
 
-![Receipt Upload Screenshot](screenshot_receipt_upload.png)
+![Receipt Upload Screenshot](ss/1.png)
 
 
-![Expense Tracking Screenshot](screenshot_expense_tracking.png)
+![Expense Tracking Screenshot](ss/2.png)
 
 
-![Category Management Screenshot](screenshot_category_management.png)
+![Category Management Screenshot](ss/3.png)
 
 
-![Reporting Screenshot](screenshot_reporting.png)
+![Reporting Screenshot](ss/4.png)
 
 --------------
 
